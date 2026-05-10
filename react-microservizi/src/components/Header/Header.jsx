@@ -10,7 +10,7 @@
 
 					<div class="container">
 
-						<a class="navbar-brand" href="index.html">🏍️🚗 Garage Manager</a>
+						<a class="navbar-brand" href="/">🏍️🚗 Garage Manager</a>
 
 						<ul class="navbar-nav">
 
