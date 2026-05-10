@@ -45,7 +45,7 @@ function Bikes() {
     return (
         <main className="container py-4">
 
-            <h2>Bikes</h2>
+            <h1>Bikes</h1>
 
             <form id="bike-form" className="row g-2 mb-4" onSubmit={handleSubmit}>
 

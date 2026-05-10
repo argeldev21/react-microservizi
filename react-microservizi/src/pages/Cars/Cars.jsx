@@ -46,7 +46,7 @@ function Cars() {
     return (
         <main className="container py-4">
 
-            <h2>Cars</h2>
+            <h1>Cars</h1>
 
             <form id="car-form" className="row g-2 mb-4" onSubmit={handleSubmit}>
 
