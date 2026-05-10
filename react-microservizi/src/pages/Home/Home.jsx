@@ -15,7 +15,7 @@ function Home() {
 
         <h1>Benvenuto nel Garage Manager</h1>
 
-        <p class="lead">Workshop Microservizi Java</p>
+        <p class="lead">Workshop Microservizi Java bellissimo</p>
 
       </main>
 
