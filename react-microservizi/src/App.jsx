@@ -1,6 +1,5 @@
-import { useState } from 'react';
+
 import { Routes, Route } from "react-router-dom";
-import Header from './components/Header/Header';
 import Home from "./pages/Home/Home";
 import Bikes from './pages/Bikes/Bikes';
 import Cars from './pages/Cars/Cars';
@@ -12,7 +11,7 @@ function App() {
 
   return (
     <>
-      <Header/>
+      
       <Routes>
 
         <Route title="Home" path="/" element={<Home />} />
