@@ -11,7 +11,14 @@ function Home() {
 
   return (
     <>
-			<h1>HOME</h1>
+			<main class="container py-5 text-center">
+
+        <h1>Benvenuto nel Garage Manager</h1>
+
+        <p class="lead">Workshop Microservizi Java</p>
+
+      </main>
+
     </>
   );
 }
